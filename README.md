@@ -1,4 +1,4 @@
 # read.me
 
 Introduction
-- https://arsro.netlify.com/
+- https://arsro.today/about
