@@ -1,4 +1,4 @@
-# read.me
+# README
 
 Introduction
 - https://arsro.today/about
