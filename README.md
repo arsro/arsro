@@ -1,4 +1,3 @@
 # README
 
-Introduction
-- https://arsro.today/about
+[about me😎](https://arsro.today/about)
