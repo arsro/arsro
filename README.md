@@ -1,3 +1,3 @@
 # README
 
-[about me😎](https://arsro.today)
+[about me](https://arsro.net/about)
